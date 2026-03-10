@@ -1,0 +1,27 @@
+# Embudo - Agencia Digital Buenos Aires
+> Agencia de marketing digital y desarrollo web en Buenos Aires, Argentina.
+
+## Servicios
+- Diseno y Desarrollo Web (Astro, React, Next.js)
+- Desarrollo E-commerce (Shopify, WooCommerce, Tiendanube)
+- Marketing Digital (Google Ads, Meta Ads, Email Marketing)
+- Branding e Identidad Visual
+- Consultoria SEO y Posicionamiento
+
+## Contacto
+- Web: https://embudo.com.ar
+- Email: hola@embudo.com.ar
+- Telefono: +54 11 5555-0100
+- Direccion: Palermo, Buenos Aires, Argentina
+
+## Informacion tecnica
+- Sitio construido con Astro 5
+- CMS: Sanity
+- Hosting: Vercel
+- Analytics: Plausible (privacy-first)
+
+## Contenido destacado
+- /servicios/ - Catalogo completo de servicios
+- /blog/ - Articulos sobre marketing digital y desarrollo web
+- /contacto/ - Formulario de contacto y presupuesto
+- /sobre-nosotros/ - Historia y equipo
