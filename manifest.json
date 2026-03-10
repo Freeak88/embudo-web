@@ -1,0 +1,18 @@
+{
+  "name": "Embudo - Agencia Digital",
+  "short_name": "Embudo",
+  "description": "Agencia de marketing digital en Buenos Aires. Diseno web, SEO, e-commerce y branding.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#5c7cfa",
+  "lang": "es-AR",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["business", "marketing"]
+}
